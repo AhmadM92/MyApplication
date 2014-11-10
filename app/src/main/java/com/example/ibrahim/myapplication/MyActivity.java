@@ -11,8 +11,7 @@ public class MyActivity extends ActionBarActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.layout);
-    //Test
+        setContentView(R.layout.activity_my);
     }
 
 

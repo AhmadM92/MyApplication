@@ -1,3 +1,4 @@
+<<<<<<< Original
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.ibrahim.myapplication" >
@@ -19,3 +20,16 @@
     </application>
 
 </manifest>
+
+=======
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <application>
+        <activity android:name="com.example.ibrahim.myapplication.MyActivity"
+            android:label="@string/title_activity_my"
+            >
+        </activity>
+    </application>
+
+</manifest>
+>>>>>>> Added
